@@ -1,8 +1,6 @@
-## Neue Version – verfeinerter Prompt (Datum: 24.08.25)
-
 Entwickle final eine Employer-Branding-Kampagne für einen Klempner-Betrieb mit ca. 20 MitarbeiterInnen in Hamburg. Gesucht werden neue KollegInnen.
 
-Starte im 1. Schritt mit einem strategisch-kreativen Sprungbrett, das Basis für alle weiteren Aufgaben rund um die Kampagnenentwicklung sein wird.
+Starte im 1. Schritt mit einem strategisch-kreativen Sprungbrett (bitte in 5-facher Ausführung entwickeln). Dieses soll als Basis für alle weiteren Aufgaben rund um die Kampagnenentwicklung sein und eine Klammer für alle gesuchten Berufsgruppen sein.
 
 Die Fakten:
 
@@ -18,55 +16,51 @@ Markenwerte/Tonalität: Bodenständig, traditionell, dabei auch humorvoll, mit e
 
 Firmenwerte: – Handwerksstolz & Qualität – Zuverlässigkeit – Tradition & Erfahrung – Kundennähe & Ehrlichkeit – Teamgeist – Regionalität – Verantwortung
 
-Medium: – cross-mediale Kampagne (Social Media, OOH, Plakate) – dabei Fokus auf Social-Media: vor allem Tik Tok, auch Instagram
+Medium: – cross-mediale Kampagne (Social Media, OOH, Plakate) – dabei Fokus auf Social-Media: vor allem Tik Tok, auch Instagram – Social-Media-Kanäle sind noch nicht vorhanden
 
 Budget: – Gering
 
-OpenAI logo
-OpenAI GPT-4o
-2 minutes ago
-Schritt 1: Strategisch-kreatives Sprungbrett
-1. Analyse der Ausgangslage (Briefing-Check)
-Fragen, die sich das Team zunächst stellt:
 
-Sind bereits bestehende Social-Media-Kanäle vorhanden, oder müssen wir diese neu konzipieren und aufbauen?
-Gibt es visuelle Elemente (z. B. Logo oder Corporate-Farben), an denen wir uns orientieren können?
-Gibt es Testimonials oder Mitarbeitende, die bereit wären, in der Kampagne mitzuwirken?
-Gibt es spezifische Zielsetzungen? Zum Beispiel eine bestimmte Anzahl an Bewerbungen?
-Falls nicht vorhanden, entwickeln wir neue Ideen in diese Richtung.
+Briefing-Check
+Bevor wir starten, einige gezielte Rückfragen:
 
-2. Zielgruppen-Insight
-Frage: Was treibt junge Menschen (16–23 Jahre) dazu, sich für einen Job zu entscheiden?
+Gibt es Bild- und Video-Material, das genutzt werden kann, oder soll Neues produziert werden? Falls neu: Gibt es Kapazitäten im Betrieb für Mitarbeitershootings/-interviews?
+Gibt es eine Corporate Identity (Farben, Schriftarten, Logo etc.), die eingebunden werden muss?
+Wie steht der Betrieb zu humorvollen Ansätzen auf TikTok? Ist eine eher freche Tonalität erlaubt?
+Soll die Kampagne langfristig angelegt werden (z. B. wiederkehrendes Thema/Format), oder ist es eine einmalige Maßnahme?
+Gibt es konkrete Benefits – neben dem Teamgeist und Tradition – für die neuen Mitarbeitenden, z. B. Weiterbildungsmöglichkeiten, flexible Arbeitszeiten, besondere Teamevents oder eine überdurchschnittliche Bezahlung?
+Sobald diese Infos geklärt sind, starten wir mit der Ideenfindung.
 
-Sie wollen einen direkten, greifbaren Impact haben (etwas mit den eigenen Händen erschaffen).
-Eine berufliche Absicherung und klare Perspektive zählen für viele als Plus.
-Sinn und Nachhaltigkeit spielen oft eine größere Rolle als "nur Geld verdienen".
-Social proof: Sie fühlen sich von Marken, Unternehmen oder Rollenmodellen angezogen, die authentisch und relatable auftreten.
-3. Kernidee: Das strategisch-kreative Sprungbrett
-These: „Das Handwerk wird in der modernen Welt oft belächelt – dabei ist es die echte Superkraft."
+Strategisch-Kreative Sprungbretter
+Wir entwickeln fünf unterschiedliche Ansätze für den Kern der Kampagne. Jedem Sprungbrett folgt später die Umsetzung mit Headlines, Visuals und Umsetzungsideen.
 
-Strategisches Sprungbrett:
-„Unser Job, unsere Superkraft.“
-Dieses Sprungbrett liefert die Basis für eine humorvolle und bodenständige Story- und Bildwelt, in der die Arbeit im Handwerk positiv überhöht, kreativ dargestellt und in einen Alltags- oder Popkulturkontext gesetzt wird (z. B. „Superhelden in Blaumann und Sicherheitsweste“).
+1. Sprungbrett: "Ohne uns läuft nix!"
+Strategische Grundlage: Handwerker wie Klempner, Baggerfahrer und Straßenbauer sind die echten Helden des Alltags – ohne sie gäbe es kein warmes Wasser, keine funktionierenden Abflüsse und keine funktionierende Infrastruktur. Diese "unsichtbare, aber schlagkräftige Macht" wird in den Mittelpunkt gerückt. Stolz, Teamgeist und Unverzichtbarkeit prägen den Ton.
 
-4. Kreativer Aufhänger und Inspirationen
-Angesichts der jungen Zielgruppe und des Social-Media-Schwerpunkts setzen wir auf eine Verbindung von authentischen Einblicken ins Handwerk und humorvoller Überhöhung.
+Ansatz auf TikTok/Plakaten: Humorvolle Content-Formate zeigen die unverzichtbare Rolle der Berufe. Beispiel: Alltag ohne Klempner – Leute nehmen morgens "Regenschirme" mit unter die Dusche, da sie kein warmes Wasser haben.
 
-Tonalität: Humorvoll, bodenständig, relatable – aber mit Respekt für das Handwerk.
-Verweise auf Popkultur: Die Gen Z liebt popkulturelle Referenzen – von Superhelden-Vibes über TikTok-Trends bis hin zu Memes.
-5. Erste Moodboard-artige Skizze vom Look & Feel der Kampagne
-Bildsprache: Authentische, echte Momentaufnahmen aus der täglichen Arbeit, kombiniert mit stilisiertem Superhelden-Look (z. B. Lichtstrahlen, Comic-Effekte, epische Perspektiven).
-Farben: Blautöne (für Bodenständigkeit/Tradition), kombiniert mit Akzenten wie Gelb oder Orange (symbolisiert Energie, Aufgeschlossenheit).
-Schrift: Moderne, klare Typo, die aber nicht zu „corporate“ wirkt; sie strahlt Ehrlichkeit und Authentizität aus.
-Stilrichtung: „Handcraft meets TikTok-Trend“: Authentische Hinter-den-Kulissen-Schnipsel, kombiniert mit witzigen Animationen oder Grafikelementen.
-Interne Teamdiskussion (Dialog-Ausschnitt)
-Art Director (Junior): „Was haltet ihr von Superhelden-Metaphern? Wir könnten die Mitarbeitenden in Arbeitskluft mit überhöhten Lichtstrahlen darstellen.“
-Copywriter (Mid-Level): „Ja, aber machen wir das lieber mit einem Augenzwinkern. Zu pathetisch könnte die Zielgruppe nerven. Vielleicht eher so: ‚Dein Blaumann ist das bessere Cape.‘“
-Social-Media-Manager (Junior): „Auf TikTok könnten wir Challenges starten – z. B. ‚Welcher Handwerks-Superheld bist du?‘ mit Transformationseffekten.“
-Creative Director: „Finde ich gut – aber betonen wir immer, wie echt und greifbar der Job ist. Das wirkt glaubwürdiger.“
-Trend Analyst (Mid-Level): „Popkulturelle Referenzen wie 'Marvel' oder aktuelle TikTok-Hypes könnten helfen, das Ganze relatable zu machen.“
+2. Sprungbrett: "Einfach. Handwerklich. Gut."
+Strategische Grundlage: Das Besondere an Handwerksberufen ist die greifbare, ehrliche Arbeit mit sichtbarem Ergebnis. In einer Welt voll Bildschirmjobs und Abstraktem hebt sich das ab – gradlinig, zuverlässig und bodenständig, wie der Betrieb selbst es ist.
 
-🛠️ Das strategisch-kreative Sprungbrett:
-„Unser Job, unsere Superkraft.“
+Ansatz auf TikTok/Plakaten: Starke "Before-and-After"-Transformationen (z. B. eine kaputte Leitung → strahlender Neubau) im Look von Social Media Trends. Oder: TikTok-Trend "Was machst du eigentlich beruflich?" als charmante Liebeserklärung ans Handwerk.
 
-Falls das passt, entwickle ich darauf basierend Konzepte, Formate und visuelle Elemente für die Kampagne!
+3. Sprungbrett: "Platz in einem echten Team!"
+Strategische Grundlage: Den Teamgeist betonen: Im Handwerk gibt es keine Einzelkämpfer, sondern nur Gemeinschaft. Der Betrieb verbindet Tradition und "familiären Flair" mit Zusammenhalt in jeder Situation.
+
+Ansatz auf TikTok/Plakaten: "Ein Tag im Leben von …" – lustige, mit Augenzwinkern produzierte Clips, die den Team-Alltag zeigen: von Kaffee-Klatsch bis hin zu Team-Baggerschlacht. Authentische Insights werfen Licht auf den Kollegenzusammenhalt.
+
+4. Sprungbrett: "Deine Karriere: stabil wie unsere Rohre"
+Strategische Grundlage: Handwerksberufe bieten nicht nur Stabilität, sondern auch Zukunft – egal ob in der Stadt oder auf nationalem Niveau. Mit modernster Technik gearbeitet, bleibt der Beruf jung und innovativ, auch für die Umwelt.
+
+Ansatz auf TikTok/Plakaten: Themen wie Innovationskraft und Zukunft (z. B. Solartechnik) mit humorvoller, bodenständiger Bildsprache kombiniert. Keywords: Stabilität, Sicherheit, Umwelt.
+
+5. Sprungbrett: "Hashtag Rohrstars gesucht!"
+Strategische Grundlage: Für junge Zielgruppen ist Authentizität essentiell. Handwerker sind die TikTok-"Stars" des echten Lebens – charmant, ehrlich, authentisch in der Präsenz. Jeder im Team ist ein “Rohrstar”, der wichtig ist.
+
+Ansatz auf TikTok/Plakaten: Lässige TikTok-Sketche, die auf TikTok-Trends aufspringen (z. B.: Vergleich "Rohr- & Wasserinstallateur vs. Bürohengst"). User-generated Content von Mitarbeitern möglich, um echte Stimmen einzubinden.
+
+Nächste Schritte:
+Auswahl oder Kombination eines der obigen Sprungbretter.
+Entwicklung einer Leitidee und erster Content-Vorschläge.
+Moodboard für Look & Feel.
+Inhalte-Strategie für die Social-Media-Kanäle (inkl. Redaktionsplan).
