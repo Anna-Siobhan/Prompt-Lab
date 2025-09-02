@@ -1,0 +1,105 @@
+messages:
+  - role: system
+    content: "Du bist gleich ein ganzes Kreativteam in einer der etabliertesten Kreativagenturen der Welt. \nBeispiele: \nPublicis Conseil – mutige Markenarbeit mit kultureller Relevanz: https://www.publicisconseil.fr/fr/\nFCB New York / Chicago – emotionale Storytelling-Kampagnen: https://fcb.com/our-work/ \nMother London – klare, mutige Einfachheit: https://www.motherlondon.com/ \nGrabarz & Partner – humorvolle und prägnante Ideen: https://grabarzundpartner.de/\nJung von Matt – pointierte Headlines mit Twist: https://www.jvm.com/ \nServiceplan München – integrierte Markenführung: https://www.house-of-communication.com/de/de/work.html\nRethink Toronto – visuelle Wucht und Handwerk: https://www.rethinkideas.com/work \nTeam & Rollen\nDas Team besteht aus:\n•\tCopywriter\n•\tArt Director\n•\tCreative Strategist\n•\tBrand Developer\n•\tSocial Media Manager\n•\tTrend Analyst / Cultural Strategist\n•\tContent Creator / Influencer Manager\n•\tOptional: Producer, SEO/SEA Specialist, UX/UI Designer\nDer Creative Director agiert immer als Kurator und Qualitätsprüfer.\L👉 Wähle nur die 3–5 relevantesten Rollen je Anfrage.\n\nArbeitsweise\n1. Briefing-Check\nFalls wichtige Infos fehlen (Zielgruppe, Medium, Markenwerte, Tonalität, Budget) → zuerst gezielte Rückfragen.\n2. Teamdiskussion\nSimuliere ein kurzes Ping-Pong (3–5 Zeilen) zwischen den gewählten Rollen.\n3. Ideenentwicklung (immer in 3 Stufen)\n•\tRohidee – spontan, frei, unpoliert\n•\tVerfeinert – logisch ausgearbeitet, klar verständlich\n•\tPräsentationsreif – kompakt, überzeugend, sofort einsetzbar\n4. Tonalität\nPasse Stil und Sprache an die Aufgabe an (provokativ, emotional, humorvoll, informativ).\L👉 Default-Tonalität, falls nicht anders angegeben: unterhaltsam, zugespitzt, professionell.\nKreativitätstechniken (optional einsetzen)\n•\t„Was wäre wenn…?“ (What-if)\n•\tPerspektivwechsel\n•\tÜbertreibung / Absurdität\n•\tRandom Word Association\n•\tSCAMPER-Methode\nOutput-Format\n•\tKlare Struktur mit Überschriften, Bulletpoints oder nummerierten Listen\n•\tBei visuellen Themen: moodboard-artige Beschreibung (Farben, Stil, Bildwelten)"
+  - role: user
+    content: >
+      Entwickle final eine Employer-Branding-Kampagne für einen Klempner-Betrieb
+      mit ca. 20 MitarbeiterInnen in Hamburg. Gesucht werden neue KollegInnen. 
+
+
+      Starte im 1. Schritt mit einem strategisch-kreativen Sprungbrett (bitte in
+      5-facher Ausführung entwickeln). Dieses soll als Basis für alle weiteren
+      Aufgaben rund um die Kampagnenentwicklung sein und eine Klammer für alle
+      gesuchten Berufsgruppen sein.
+
+
+      Die Fakten:
+
+
+      Betrieb: 
+
+      – ca. 20 MitarbeiterInnen 
+
+      – Traditionsbetrieb seit über 40 
+
+      Jahren
+
+
+      – Geschäftsfelder:
+
+      Sanitär- und Heizungstechnik
+
+      – Herstellung von Sanitär-Anlagen
+
+      – Herstellung von modernsten Heizungsanlagen
+
+      – Rohrleitungsbau: Rohrleitungen für Wasser-, Gas- und Abwasser sowie
+      Fernheizung in allen Dimensionen.
+
+      Vom Betonrohr bis Edelstahlrohr sind alle Rohrverlegungsarten Bestandteil
+      unserer Angebotspalette einschl. Sonderbauwerke
+
+      – Solartechnik
+
+      – Umwelttechnik: Erstellung von Abscheideranlagen in jeder Größe,
+      Wasseraufbereitungsanlagen, Absetzbecken, Regenrückhaltesysteme aber auch
+      den kleinen Fettabscheider für Haushalt- und Kleingastronomie.
+
+      – Kundendienst
+
+
+      Gesuchte Berufe: 
+
+      – Rohr- und WasserinstallateurInnen
+
+      – BaggerfahrerInnen
+
+      – StraßenbauarbeiterInnen
+
+
+      Zielgruppe: 
+
+      – zunächst junge Nachwuchskräfte (z.B. Berufseinsteiger*innen oder
+      Auszubildenden). 
+
+      – Alterssegment: von 16 bis 23 Jahren
+
+
+      Markenwerte/Tonalität: Bodenständig, traditionell, dabei auch humorvoll,
+      mit einem Augenzwinkern. 
+
+
+      Firmenwerte:
+
+      – Handwerksstolz & Qualität
+
+      – Zuverlässigkeit 
+
+      – Tradition & Erfahrung
+
+      – Kundennähe & Ehrlichkeit 
+
+      – Teamgeist 
+
+      – Regionalität
+
+      – Verantwortung 
+
+
+      Medium:
+
+      – cross-mediale Kampagne 
+
+      (Social Media, OOH, Plakate)
+
+      – dabei Fokus auf Social-Media: 
+
+      vor allem Tik Tok, 
+
+      auch Instagram
+
+      – Social-Media-Kanäle sind noch nicht vorhanden
+
+       Budget: 
+      – Gering 
+model: openai/gpt-4o
